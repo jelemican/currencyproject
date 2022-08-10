@@ -18,8 +18,6 @@
 
 В папке Examples есть скриншоты результатов работы HTTP методов
 
-Скриншоты сделаны в Postman
-
 Запрос для создания нужной таблицы в SQL SERVER:
 
 CREATE TABLE tblCurrency
