@@ -16,6 +16,8 @@
 
 Работа с базой данных реализована с помощью ORM Entity Framework
 
+В папке Examples есть скриншоты результатов работы HTTP методов
+
 Запрос для создания нужной таблицы в SQL SERVER:
 
 CREATE TABLE tblCurrency
